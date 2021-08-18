@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="313.738" height="320.869" viewBox="0 0 313.738 320.869">
+  <g id="Group_73" data-name="Group 73" transform="translate(-1138.714 -3900.131)">
+    <circle id="Ellipse_19" data-name="Ellipse 19" cx="134" cy="134" r="134" transform="translate(1160 3953)" fill="#f4f9f9"/>
+    <text id="_25_" data-name="25%" transform="translate(1212 3963)" fill="#ff6346" font-size="40" font-family="FuturaPT-Demi, Futura PT" font-weight="300"><tspan x="0" y="39">25%</tspan></text>
+    <text id="_25_2" data-name="25%" transform="translate(1187 4060)" fill="#047989" font-size="40" font-family="FuturaPT-Demi, Futura PT" font-weight="300"><tspan x="0" y="39">25%</tspan></text>
+    <text id="_25_3" data-name="25%" transform="translate(1333 4000)" fill="#1eb9d5" font-size="40" font-family="FuturaPT-Demi, Futura PT" font-weight="300"><tspan x="0" y="39">25%</tspan></text>
+    <text id="_25_4" data-name="25%" transform="translate(1310 4091)" fill="#334054" font-size="40" font-family="FuturaPT-Demi, Futura PT" font-weight="300"><tspan x="0" y="39">25%</tspan></text>
+    <g id="Group_48" data-name="Group 48" transform="matrix(0.966, 0.259, -0.259, 0.966, 846.712, 4147.697)">
+      <path id="Path_80" data-name="Path 80" d="M400.1-213.783V-330.366A116.516,116.516,0,0,0,283.519-213.783h95.025" fill="none" stroke="#ff6346" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_81" data-name="Path 81" d="M420.1-310.089v96.306H536.685A116.515,116.515,0,0,0,420.1-330.366" fill="none" stroke="#1eb9d5" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_82" data-name="Path 82" d="M420.1-140.923V-77.2A116.516,116.516,0,0,0,536.685-193.783H420.1v32.86" fill="none" stroke="#334054" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_83" data-name="Path 83" d="M283.519-193.783A116.516,116.516,0,0,0,400.1-77.2V-193.783H301.044" fill="none" stroke="#047989" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

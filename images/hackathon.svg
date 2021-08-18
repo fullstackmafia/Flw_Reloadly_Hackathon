@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="641" height="505.98" viewBox="0 0 641 505.98">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="419.845" height="199.614" transform="translate(0 143.595) rotate(-20)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_16" data-name="Rectangle 16" width="400.228" height="214.7" transform="translate(0 136.886) rotate(-20)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_75" data-name="Group 75" transform="translate(-639.5 -418.01)">
+    <g id="Group_5" data-name="Group 5" transform="translate(-89.795 111.825)">
+      <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(907.498 480.994)" clip-path="url(#clip-path)">
+        <text id="athon" transform="translate(13.661 192.348)" font-size="174" font-family="FuturaPT-Demi, Futura PT" font-weight="300"><tspan x="0" y="0">athon</tspan></text>
+      </g>
+      <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(729.295 306.185)" clip-path="url(#clip-path-2)">
+        <g id="Group_3" data-name="Group 3" transform="translate(43.962 71.912)">
+          <text id="Hack" transform="translate(0 171)" font-size="174" font-family="FuturaPT-Demi, Futura PT" font-weight="300"><tspan x="0" y="0">Hack</tspan></text>
+          <rect id="Rectangle_13" data-name="Rectangle 13" width="89.847" height="38.535" transform="translate(298.251 168.441) rotate(-20)" fill="#fff"/>
+        </g>
+      </g>
+      <line id="Line_1" data-name="Line 1" x2="569.421" transform="translate(787.091 658.589) rotate(-20)" fill="none" stroke="#1fbad6" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
