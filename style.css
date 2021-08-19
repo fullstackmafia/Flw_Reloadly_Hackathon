@@ -44,19 +44,12 @@ main {
 .regional__focus h3 {
   text-align: right;
   font-family: Montserrat, sans-serif;
+  margin-bottom: 80px;
 }
 
 .reloadly img {
   width: 428px;
 }
-
-/* .flw{
-  
-    position: absolute;
-    top: 0;
-    right: 0;
-
-} */
 
 .flw img {
   width: 318px;
@@ -116,10 +109,12 @@ main {
   font-family: "Montserrat", sans-serif;
   /* font-weight: 900; */
 }
+
 .goal__img {
   width: 400px;
   height: 356px;
 }
+
 .goal__img img {
   width: 90%;
   height: 90%;
@@ -166,15 +161,18 @@ main {
   /* margin: 10px; */
   /* color: red; */
 }
+
 .Time__seperator {
   color: #56b8d2;
   margin: 10px;
 }
+
 .timer__box p {
   font-size: 9px;
   margin: 0;
   padding: 0;
 }
+
 .timer__box h5 {
   font-size: 15px;
   margin: 0;
@@ -182,9 +180,11 @@ main {
   padding: 0;
   /* line-height: 2px; */
 }
+
 .register__wrapper {
   margin-left: 10px;
 }
+
 .register_btn {
   color: white;
   background-color: #56b8d2;
@@ -193,7 +193,8 @@ main {
   width: 150px;
   height: 50px;
 }
-.ulmshdjs {
+
+.list {
   margin-left: 20px;
 }
 
