@@ -74,6 +74,11 @@ main {
   text-decoration: none;
 }
 
+.nav-wrapper a:visited a:active {
+  color: black;
+  text-decoration: none;
+}
+
 .hackathon {
   display: block;
   margin-left: auto;
