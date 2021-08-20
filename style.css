@@ -93,6 +93,9 @@ main {
 .starting__date {
   margin-left: 0 30px 0 30px;
 }
+.starting__date h3 {
+  font-weight: 300;
+}
 
 .goals__div {
   display: flex;
@@ -296,10 +299,10 @@ footer {
   /* min-width: 12.5rem; */
 }
 
-.foot__main__item img {
+/* .foot__main__item img {
   width: 90px;
   height: 50px;
-}
+} */
 .foot__main__item ul li {
   list-style-type: none;
 }
