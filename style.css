@@ -312,7 +312,12 @@ footer {
 
 .sub__powered__div {
   display: flex;
-  justify-content: center;
+  /* justify-content: center; */
+  flex-direction: column;
+}
+.sub__powered__div p {
+  text-align: center;
+  margin-top: -2px;
 }
 
 @media (min-width: 18rem /*300px*/) and (max-width: 60rem /*1000px*/) {
