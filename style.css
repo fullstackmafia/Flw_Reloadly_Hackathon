@@ -86,6 +86,10 @@ main {
   width: 641px;
 }
 
+.hackathon img {
+  width: 100%;
+}
+
 .starting__date {
   margin-left: 0 30px 0 30px;
 }
@@ -109,6 +113,10 @@ main {
   font-family: "Montserrat", sans-serif;
 }
 
+.goal__text ul {
+  font-family: "Montserrat", sans-serif;
+}
+
 .goal__img {
   width: 400px;
   height: 356px;
@@ -124,17 +132,6 @@ main {
   justify-content: space-between;
   padding: 70px 0 80px 0;
 }
-
-/* .judgement__img img {
-  width: 100%;
-  height: 100%;
-}
-
-.judgement__div {
-  display: flex;
-  justify-content: space-between;
-  padding: 40px 0 50px 0;
-} */
 
 .judgement__text {
   max-width: 28rem;
@@ -198,14 +195,45 @@ main {
   padding: 0;
 }
 
+.how__to__enroll__cnt {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 40px;
+}
+.how__to__enroll__item {
+  width: 23%;
+}
+.line__style {
+  border: 1px solid #1dbad5;
+  width: 50%;
+}
+
+.prizes {
+  padding: 50px 0 70px 0;
+}
+
+.prizes h3 {
+  text-align: center;
+}
+
+.prizes__cnt {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 40px;
+}
+
+prizes__cnt__item {
+  width: 30%;
+}
+
 .register__wrapper {
   margin-left: 10px;
 }
 
 .register_btn {
   color: white;
-  background-color: #56b8d2;
-  border: solid #56b8d2 2px;
+  background-color: #1dbad5;
+  border: solid #1dbad5 2px;
   border-radius: 5px;
   width: 150px;
   height: 50px;
@@ -218,14 +246,30 @@ main {
 .slack {
   display: flex;
   justify-content: center;
-  border: 1px solid green;
+  border: 1.5px solid #1dbad5;
   width: 600px;
   margin: auto;
   margin-top: 30px;
+  border-radius: 2px;
 }
 .slack__img img {
   width: 90px;
   height: 100%;
+}
+
+.hackathon__register {
+  background-color: #324054;
+  padding: 50px 0 50px 0;
+}
+
+.hackathon__register__cnt {
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+
+.hackathon__register__cnt {
+  color: #fff;
 }
 
 footer {
@@ -234,25 +278,29 @@ footer {
   line-height: 1.5;
 }
 
-.foot-title {
+.foot__title {
   color: #fff;
   font-family: "Montserrat", sans-serif;
   font-size: 16px;
   /* padding-bottom: 0.625rem; */
 }
 
-.foot-main {
+.foot__main {
   display: flex;
   justify-content: center;
   /* padding: 1.25rem 1.875rem; */
 }
 
-.foot-main-item {
+.foot__main__item {
   padding: 26px;
   /* min-width: 12.5rem; */
 }
 
-.foot-main-item ul li {
+.foot__main__item img {
+  width: 90px;
+  height: 50px;
+}
+.foot__main__item ul li {
   list-style-type: none;
 }
 
@@ -380,7 +428,7 @@ footer {
     align-items: center;
   }
 
-  .foot-main {
+  .foot__main {
     flex-direction: column;
   }
 
