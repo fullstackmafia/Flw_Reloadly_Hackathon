@@ -134,6 +134,10 @@ main {
   max-width: 28rem;
 }
 
+.judgement__text p{
+  line-height: 1.5;
+}
+
 .judgement__img {
   width: 400px;
   height: 356px;
@@ -141,7 +145,7 @@ main {
 
 .judgement__img img {
   width: 100%;
-  height: 100%;
+  /* height: 100%; */
 }
 
 .how__to__div {
