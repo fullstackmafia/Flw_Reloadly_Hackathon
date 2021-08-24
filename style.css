@@ -301,6 +301,11 @@ footer {
 .hackathon__register {
   color: #fff;
 }
+.heart:before {
+  content: '\2665';
+  color: #1dbad5;
+  font-size: 1.2em;
+}
 
 @media (min-width: 18rem /*300px*/) and (max-width: 60rem /*1000px*/) {
   .ft-main {
