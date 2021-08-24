@@ -298,6 +298,10 @@ footer {
   justify-content: center;
 }
 
+.hackathon__register {
+  color: #fff;
+}
+
 @media (min-width: 18rem /*300px*/) and (max-width: 60rem /*1000px*/) {
   .ft-main {
     justify-content: space-evenly;
