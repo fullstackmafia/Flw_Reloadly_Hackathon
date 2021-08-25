@@ -5,9 +5,19 @@
   text-decoration: none;
 }
 
+@font-face {
+  font-family: "Futura 45";
+  src: url(./fonts/ftn45-webfont.woff);
+}
+
+@font-face {
+  font-family: "Futura 85";
+  src: url(./fonts/ftn85-webfont.woff);
+}
+
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-family: "Futura 45";
+  font-size: large;
   margin: 0;
   padding: 0;
 }
@@ -43,7 +53,7 @@ main {
 
 .regional__focus h3 {
   text-align: right;
-  font-family: Montserrat, sans-serif;
+  font-family: "Futura 45";
   margin-bottom: 80px;
 }
 
@@ -112,12 +122,12 @@ main {
 }
 
 .goal__text h4 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Futura 45", sans-serif;
   font-weight: 900;
 }
 
 .goal__text p {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Futura 45", sans-serif;
 }
 
 .goal__img {
@@ -167,7 +177,7 @@ main {
 }
 
 .how__to__div h4 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Futura 45", sans-serif;
   font-weight: 900;
 }
 
@@ -257,7 +267,7 @@ footer {
 
 .foot-title {
   color: #fff;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Futura 45", sans-serif;
   font-size: 16px;
   line-height: 1.6px;
   /* padding-bottom: 0.625rem; */
@@ -305,6 +315,15 @@ footer {
   content: '\2665';
   color: #1dbad5;
   font-size: 1.2em;
+}
+
+#how__to__enroll__link {
+  color: #1dbad5;
+}
+
+#how__to__enroll__link:hover {
+  color: #bbb;
+  transition: 0.7s;
 }
 
 @media (min-width: 18rem /*300px*/) and (max-width: 60rem /*1000px*/) {
